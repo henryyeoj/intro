@@ -4,7 +4,7 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'Henry Yeoj Dela Cruz'; // Updated to your name
+const name = 'Henry Yeoj Dela Cruz'; 
 export const siteTitle = 'Next.js Sample Website';
 
 export default function Layout({ children, home }) {
